@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @insomniac279
-- 👀 I’m interested in learning programming.
-- 🌱 I’m currently learning Python.
-- 📫 How to reach me ... please don't.
+- 🌱 I’m currently working on improving my .NET skills.
 
 <!---
 insomniac279/insomniac279 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
